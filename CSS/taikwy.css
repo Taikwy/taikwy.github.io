@@ -1,0 +1,33 @@
+
+   
+    body {
+        max-width: 1000px;
+        min-width: 500px;
+        margin: 0 auto;
+        font-family: 'Roboto Mono', monospace;
+        font-family: 'Mansalva', cursive;
+    }
+    h1 {
+        text-align: center;
+        font-size: 5.0em;
+        font-family: 'Roboto Mono', monospace;
+        font-family: 'Mansalva', cursive;
+    }
+
+    p {
+        font-family: 'Roboto Mono', monospace;
+        font-family: 'Mansalva', cursive;
+        font-size: 1.4em;
+        font-style: normal;
+        margin-bottom: 1em;
+        line-height: 1.4em;
+    }
+
+    img {
+        max-width: 500px;
+        margin: 10px 25px 10px 25px;
+        float:left;
+      }
+
+
+
