@@ -4,18 +4,15 @@
         max-width: 1000px;
         min-width: 500px;
         margin: 0 auto;
-        font-family: 'Roboto Mono', monospace;
         font-family: 'Mansalva', cursive;
     }
     h1 {
         text-align: center;
         font-size: 3.0em;
-        font-family: 'Roboto Mono', monospace;
         font-family: 'Mansalva', cursive;
     }
 
     p {
-        font-family: 'Roboto Mono', monospace;
         font-family: 'Mansalva', cursive;
         font-size: 1.4em;
         font-style: normal;
@@ -25,8 +22,7 @@
 
     img {
         max-width: 500px;
-        margin: 10px 25px 10px 25px;
-        float:left;
+       margin: 0 auto;
       }
 
 
